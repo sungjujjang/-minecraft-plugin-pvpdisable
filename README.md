@@ -11,4 +11,4 @@ pvp 금지와 hit animal 을 금지합니다;
 
 다운로드
 -------------
-https://github.com/sungjujjang/-minecraft-plugin-pvpdisable/blob/master/pvpdisable.jar
+https://github.com/sungjujjang/-minecraft-plugin-pvpdisable/tree/master/JAR
