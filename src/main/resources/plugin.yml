@@ -1,0 +1,17 @@
+name: pvpdisable
+version: '${project.version}'
+main: com.sungjujjand.pvpdisable.Pvpdisable
+api-version: 1.19
+commands:
+  pvp:
+    description: Pvp disable
+    usage: /pvp
+    aliases: [pvpdisable]
+    permission: pvpdisable.pvp
+    permission-message: You don't have permi
+  animalhit:
+    description: Animal hit disable
+    usage: /animalhit
+    aliases: [animalhitdisable]
+    permission: pvpdisable.animalhit
+    permission-message: You don't have permi

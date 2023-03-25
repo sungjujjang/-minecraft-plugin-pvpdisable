@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pvpdisable:jar">
+    <output-path>$USER_HOME$/Desktop/SEVER/plugins</output-path>
+    <root id="archive" name="pvpdisable.jar">
+      <element id="module-output" name="pvpdisable" />
+    </root>
+  </artifact>
+</component>
