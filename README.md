@@ -6,7 +6,7 @@ pvp 금지와 hit animal 을 금지합니다;
 사용법
 -------------
 
-/pvp (true/false)
+/pvp (true/false) \
 /animalhit (true/false)
 
 
