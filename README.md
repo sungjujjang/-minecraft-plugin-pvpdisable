@@ -1,4 +1,3 @@
-# -minecraft-plugin-pvpdisable
 마인크래프트 플러그인 입니다
 =============
 pvp 금지와 hit animal 을 금지합니다;
